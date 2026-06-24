@@ -1,0 +1,28 @@
+{
+  "name": "web-scrappin",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "dev": "ts-node src/server.ts",
+    "ml": "ts-node src/mercado-livre.ts",
+    "amazon": "ts-node src/amazon.ts",
+    "shein": "ts-node src/shein.ts",
+    "shopee": "ts-node src/shoppe.ts",
+    "shoppe": "ts-node src/shoppe.ts",
+    "build": "tsc",
+    "start": "node dist/server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "playwright": "^1.57.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "packageManager": "yarn@4.9.1+sha512.f95ce356460e05be48d66401c1ae64ef84d163dd689964962c6888a9810865e39097a5e9de748876c2e0bf89b232d583c33982773e9903ae7a76257270986538"
+}
+

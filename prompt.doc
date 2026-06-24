@@ -1,0 +1,3 @@
+npm run ml -- "iphone 14"
+npm run amazon -- "iphone 14"
+npm run shein -- "vestido"

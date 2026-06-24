@@ -1,0 +1,853 @@
+{
+  "cookies": [
+    {
+      "name": "csrftoken",
+      "value": "oqHeWJMpN6ch6XD8o1g7FlU6BkcqMQ18",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sapid",
+      "value": "8d3d79f741a71c9e8860b5f5a0678ba839893464387e108fa323d080",
+      "domain": "shopee.com.br",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SPC_SEC_SI",
+      "value": "v1-Nzk5cGgzV2haNURkdzVLZ82mh2ss/pQkctSGlphthUDYAFvmZqyieROrxqJKfWdKpCK1J8Q/FTiIjYzrqO13KBg+DqAln50RggDsovy44iM=",
+      "domain": "shopee.com.br",
+      "path": "/",
+      "expires": 1768353146.383612,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SPC_F",
+      "value": "lbCALiAnGHGIzeGK90kX4hyJALpQ55SK",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1802826446.383732,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "REC_T_ID",
+      "value": "39b4bdd1-f01c-11f0-98e7-42a6de8c1c35",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1802826446.383804,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SPC_SI",
+      "value": "BZJTaQAAAABhazgyQ0FTNMzIAwEAAAAAZEY5Z3hmaUQ=",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1768360337.841179,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_QPWSDCXHZQA",
+      "value": "5ee270c9-aa31-4688-eaef-346593e78c9f",
+      "domain": "shopee.com.br",
+      "path": "/",
+      "expires": 1799802446,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "REC7iLP4Q",
+      "value": "61a2fe43-cce3-418f-b96b-2ce35e858670",
+      "domain": "shopee.com.br",
+      "path": "/",
+      "expires": 1799809936,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SPC_CLIENTID",
+      "value": "bGJDQUxpQW5HSEdJqrgzltiyornclope",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1802833931.790587,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OTZ",
+      "value": "8432708_68_64_73560_68_416340",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1770858450,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "blueID",
+      "value": "b865b578-5574-4725-87c6-0d5427e36e39",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1799803798,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ckid",
+      "value": "A7787125-B44B-42F8-89527F0C07599C0F",
+      "domain": ".getblue.io",
+      "path": "/",
+      "expires": 1799809934.372625,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.2.1768267798822.458206505400119120",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1776049921,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.475382234.1768267799",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1776043798,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUkEIS7cymI9HZsjYzXBVrj3ons083Fxo0CNHadS05w69ijMBeWc4ATNfB6TRJ0",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1802827799.059095,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.2127581800.1768267799",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1768360321,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XANDR_PANID",
+      "value": "sYNgcR5ceKVsvOQKcsY7H7i7QzdYG7PRYQVMOavETH6kx_b2V3JSjkLF88VZxhFkdLPhIaNvt-dlBdk35qDQALkbpFUNc3-i4we6PJKlHVU.",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1776043799.586253,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://shopee.com.br",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "anj",
+      "value": "dTM7k!M4.FD>6NRF']wIg2GUkDM8r]!@wnfH1Y_8e'Ms3Z@mq8HMMIwEC.x.DhJ5!DhZ0uGPPuqEJA)kGld0vG%FLq0<BH9`-wm*%nugO%v4VB%nn:[)DUub",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1776043799.585504,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "value": "3702705364800045425",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1776043799.58634,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SID",
+      "value": "g.a0005gg4EvheqIOPdhsI3kH-pfsh-JwQ7EDpDaVdG5qQkPP7C-s6otdYbxO-DPDkffa5ERNcbQACgYKAeUSARUSFQHGX2MieZKCl_BNX63TOMJR-I-BmhoVAUF8yKpOaVKVHODOiSGfDZg7GDqW0076",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1802827842.205881,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "g.a0005gg4EvheqIOPdhsI3kH-pfsh-JwQ7EDpDaVdG5qQkPP7C-s67Z3tr1-aiQiLP2lkMbPWvQACgYKAXMSARUSFQHGX2MiijY-wrSqCN5LovCX3vdcFBoVAUF8yKojDRVLKIpklTQbY1Rkhn4R0076",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1802827842.205964,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "g.a0005gg4EvheqIOPdhsI3kH-pfsh-JwQ7EDpDaVdG5qQkPP7C-s6uNRmpcrjfzpoPSGVBf1x5wACgYKAU0SARUSFQHGX2MihK4J4AF8ptrUFdWryzBGtxoVAUF8yKqFEnHdN2dzHz2FcYXMc1590076",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1802827842.206017,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "HSID",
+      "value": "Ao8ZFA1OGuzS5h7Hi",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1802827842.206226,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSID",
+      "value": "A5-TdOy5hosWZ18Bh",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1802827842.206274,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APISID",
+      "value": "hUulAErCxOPLMTqt/ASEiZCrEG_kLzf6VH",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1802827842.206318,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SAPISID",
+      "value": "LgmXcpgbezx-Wpy1/AEb5NWrd3YTRxwiV0",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1802827842.206362,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "LgmXcpgbezx-Wpy1/AEb5NWrd3YTRxwiV0",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1802827842.206405,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "LgmXcpgbezx-Wpy1/AEb5NWrd3YTRxwiV0",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1802827842.206449,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Host-GAPS",
+      "value": "1:oKBL5JRt97cytEzwHXNi1N7fS0LSV5l65wsajEtHNomFvpUnJb-5erElZeABnqyl8wWU6au-h6zHVvWmbo5vqoK5oNRdxw:6ODdiu5Jc0uNSJVl",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1802827842.206538,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "LSID",
+      "value": "s.BR|s.youtube:g.a0005gg4EvqjZ0Mw3Bn88zNW5OroXEMLNHmKNFuW8LBts5Iv4Zb18jUZGFzU5m5R_8roYEAPNgACgYKAeMSARUSFQHGX2MizxQO9jfFzqtFcTZAaB_tVRoVAUF8yKqTHvVLXN5D9A4QLlU8zVRu0076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1802827842.405304,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-1PLSID",
+      "value": "s.BR|s.youtube:g.a0005gg4EvqjZ0Mw3Bn88zNW5OroXEMLNHmKNFuW8LBts5Iv4Zb1xJwcPz_838nLURU9n1o8zQACgYKAbYSARUSFQHGX2MigaE7Xcd-abiEMrL9W-NFHBoVAUF8yKrKzQaC-nDrNbnTT-jD8Ukr0076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1802827842.405529,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-3PLSID",
+      "value": "s.BR|s.youtube:g.a0005gg4EvqjZ0Mw3Bn88zNW5OroXEMLNHmKNFuW8LBts5Iv4Zb1Fyz0YNfwJycYxHCyuLk-QwACgYKAacSARUSFQHGX2MieAcbhukn3c3yFd98ZGLkPxoVAUF8yKpvRmW4kR64SFGNzDt6yUA90076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1802827842.405634,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ACCOUNT_CHOOSER",
+      "value": "AFx_qI7SzwQvojmZEAWgbgI-yzo4NEuf1ful-cUzY9q7BUZGWBqhbT38DFMFXnNLDXBhrEHVoE7JJTHWWjv2ltGa4LHmivWjDxKRxXaR3QqOINs2AVcZ6HuV58V7bpyZcgfDDz6e8HDN",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1802827842.405732,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSIDTS",
+      "value": "sidts-CjUB7I_69O4hEWoyJLOq9BkMILcDpbL5IlIVkwGG7ymQl6bkGvIOOZ4dTkrKlUKUmaD8dBR6jBAA",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1799803842.576404,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSIDTS",
+      "value": "sidts-CjUB7I_69O4hEWoyJLOq9BkMILcDpbL5IlIVkwGG7ymQl6bkGvIOOZ4dTkrKlUKUmaD8dBR6jBAA",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1799803842.576567,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "HSID",
+      "value": "AcdoyZbcOQ-tkDqqM",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1802827842.57665,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSID",
+      "value": "AuCe47JvptCMzyOMd",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1802827842.576714,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APISID",
+      "value": "hUulAErCxOPLMTqt/ASEiZCrEG_kLzf6VH",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1802827842.57676,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SAPISID",
+      "value": "LgmXcpgbezx-Wpy1/AEb5NWrd3YTRxwiV0",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1802827842.576809,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "LgmXcpgbezx-Wpy1/AEb5NWrd3YTRxwiV0",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1802827842.576855,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "LgmXcpgbezx-Wpy1/AEb5NWrd3YTRxwiV0",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1802827842.576917,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SID",
+      "value": "g.a0005gg4EvheqIOPdhsI3kH-pfsh-JwQ7EDpDaVdG5qQkPP7C-s6otdYbxO-DPDkffa5ERNcbQACgYKAeUSARUSFQHGX2MieZKCl_BNX63TOMJR-I-BmhoVAUF8yKpOaVKVHODOiSGfDZg7GDqW0076",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1802827842.576977,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "g.a0005gg4EvheqIOPdhsI3kH-pfsh-JwQ7EDpDaVdG5qQkPP7C-s67Z3tr1-aiQiLP2lkMbPWvQACgYKAXMSARUSFQHGX2MiijY-wrSqCN5LovCX3vdcFBoVAUF8yKojDRVLKIpklTQbY1Rkhn4R0076",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1802827842.577037,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "g.a0005gg4EvheqIOPdhsI3kH-pfsh-JwQ7EDpDaVdG5qQkPP7C-s6uNRmpcrjfzpoPSGVBf1x5wACgYKAU0SARUSFQHGX2MihK4J4AF8ptrUFdWryzBGtxoVAUF8yKqFEnHdN2dzHz2FcYXMc1590076",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1802827842.577083,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "HSID",
+      "value": "AcdoyZbcOQ-tkDqqM",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1802827842.802099,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSID",
+      "value": "AuCe47JvptCMzyOMd",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1802827842.802251,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APISID",
+      "value": "hUulAErCxOPLMTqt/ASEiZCrEG_kLzf6VH",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1802827842.802298,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SAPISID",
+      "value": "LgmXcpgbezx-Wpy1/AEb5NWrd3YTRxwiV0",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1802827842.802341,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "LgmXcpgbezx-Wpy1/AEb5NWrd3YTRxwiV0",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1802827842.802381,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "LgmXcpgbezx-Wpy1/AEb5NWrd3YTRxwiV0",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1802827842.802423,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NID",
+      "value": "528=O89AgM49oSn0VK6VM48yBksEMNpqNCFh43czwKh-v7sTVOS3lTr37zorTd9BT-nCg2S5B35ecfJEgt3kvI3p9129BR3P5wJ0CQVUvkCQFDeS2zGUAB4Za-12Ig_Y0rQzE_-GlgDhwD9ONTDJRh97_erwxQliR_d0gHUKIwU9Td3xQEPGcW-YEKOPH8tsONfCVHi-Y3oUjAzLKRaoX8TPxE1K",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1784079042.802465,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SID",
+      "value": "g.a0005gg4EvheqIOPdhsI3kH-pfsh-JwQ7EDpDaVdG5qQkPP7C-s6otdYbxO-DPDkffa5ERNcbQACgYKAeUSARUSFQHGX2MieZKCl_BNX63TOMJR-I-BmhoVAUF8yKpOaVKVHODOiSGfDZg7GDqW0076",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1802827842.802508,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "g.a0005gg4EvheqIOPdhsI3kH-pfsh-JwQ7EDpDaVdG5qQkPP7C-s67Z3tr1-aiQiLP2lkMbPWvQACgYKAXMSARUSFQHGX2MiijY-wrSqCN5LovCX3vdcFBoVAUF8yKojDRVLKIpklTQbY1Rkhn4R0076",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1802827842.802562,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "g.a0005gg4EvheqIOPdhsI3kH-pfsh-JwQ7EDpDaVdG5qQkPP7C-s6uNRmpcrjfzpoPSGVBf1x5wACgYKAU0SARUSFQHGX2MihK4J4AF8ptrUFdWryzBGtxoVAUF8yKqFEnHdN2dzHz2FcYXMc1590076",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1802827842.802603,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NID",
+      "value": "528=gYAj4MqK_4WIe9YFTVvRbSEJ5ft0FV7QE-I9UnrD0_RwZ3XCxc-2t9CvVa2OEIWFtRHAKzAXuProppvVg2e2JlP26v-nK9QIve5GwyITIGs6t0HKa9l1S3uSLzdvgB9bwewIfjCk99R5OVndyvBcmWpR18-AiW7JDcq3thu5qFkXyQ1iOQi8-HQXmmWuULnyyQseFFQK7UMttYASP3YE8Dh65zGU6QZXKuA4tg5fUjmZsFWzLeRAgUY_1a6rnnlLGt9inLv3VwXvppBDnlBjpRKvQKwXLI5-Qbg5ajX_j-vRg-CPpi_GQxz6Nl6MiwsMsn7flMxi-QbKLeWoh6hEmUlAeuAuuXrXxfB2ZgEYvg8RlCWCCdmoifhvpF9FfQV9yhRE5R4a-EEj-E_KViUYtQxE0piiPIcy0EBoWaI8VzJziwW2aQbp9lm038a2peE5uFZCCAlDlNNs4qT0B2ZKuP-JtVBnyNc3-ECTOp0B8YpSyC8CRLwj9dyTkZPNkQaKGlC6NZJDZAnCp8u61HbsMCnoBgxLkELCSJVJ3Z2ZtGKG1ENT50sY1U_SK1uwl364w7oI8fphhplykGvVOJfogCkOHDdQJkZBGkr5bVC6MNeQd6kEYKagrTPv-Fi_2M1NO9ixzd1g0QpqBUwpaF3quRc",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1784077650.463059,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMP_TOKEN",
+      "value": "%24NOT_FOUND",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1768277521,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.336470679.1768267799",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1802833921.725447,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dc_gtm_UA-149843394-1",
+      "value": "1",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1768273981,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SIDCC",
+      "value": "AKEyXzURJs6eC6VTMAmFm9bn2kpVZNC4kzfBFGPDhx3_YBsifD2LZm4cEhclZ52UAzI2n279",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1799809930.006502,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSIDCC",
+      "value": "AKEyXzXr18Q7fQsZLq4bYzF4oq7w-M5FC4cpmh-n_mT5rGgA_XV9mBFTrvnW9-KzdPTjFqyXRQ",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1799809930.00666,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzWy7wArC9ioiyWfFZgYBgEIdPXSHihGKmUVzozNzy-qQyye4jzfpZg9JA6CF-0gEDGrsQ",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1799809930.006747,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SPC_ST",
+      "value": ".VUlDT2tYWkhFUm1vUzA0S2RGfsdGzb+RS+yDaHNAnsqWuOZScLNyeuFhBVTBCG/NHfOw1tfYNbuH/tWoqkdhVNlGz2/UkYH10fM5HztF/Eyq0yZk7AEBmsCCIDWfs/z6P9irxi2OBn1PZrFSn0bMm05bRt2R1nTlThWGiCkjgPSCW+jpPhDwU4HzPGcce9yORqU5rx5xNyr8SJ8cHRhO39gnDrqidFtbdDrc/eAOnl3LDYFkxPU8OrwlQsEMgaav+oAarDORLxt19fvSey116+1jz7BbvIdMbr/cGs9Vlao=",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1802833934.830677,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_T69DLR1QPG",
+      "value": "GS2.1.s1768273921$o2$g1$t1768273931$j50$l0$h779920770",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1802833931.818872,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SPC_IA",
+      "value": "1",
+      "domain": "shopee.com.br",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SPC_U",
+      "value": "854197827",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1802833934.830166,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SPC_R_T_ID",
+      "value": "rEwqIeCKGjq4JcR95IQQRla9O7eJIVJ5/gREi8f6mBg7woy6uKk6/EnMoCOonPsYvWoO1lQdlslNIOMQezcJtZYjYs92FEpu7wzC829r/35cw1XquuAeplnsQgORTeo0JciJVED3viBiG49UfnN2kG/UVNjtERYK0SblDDns5Uc=",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1802833934.83036,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SPC_R_T_IV",
+      "value": "ZkxSVW41VzZ2NG1YR1pSQg==",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1802833934.830426,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SPC_T_ID",
+      "value": "rEwqIeCKGjq4JcR95IQQRla9O7eJIVJ5/gREi8f6mBg7woy6uKk6/EnMoCOonPsYvWoO1lQdlslNIOMQezcJtZYjYs92FEpu7wzC829r/35cw1XquuAeplnsQgORTeo0JciJVED3viBiG49UfnN2kG/UVNjtERYK0SblDDns5Uc=",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1802833934.830488,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SPC_T_IV",
+      "value": "ZkxSVW41VzZ2NG1YR1pSQg==",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1802833934.83056,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SPC_EC",
+      "value": ".R3Z0cFBIZThWOXc4M1VRarLUMNn1C+pPz7FYi379DTajT2Mv3ebmPzPBl8wxeZ3Q5kpjX00rHCAcfmFv8ydQgSFTGf5OZiAC6N11uXFaDxQiJQfkQpXLXVG9+VKd+lgXp8ibUboXpymQTk9n5P6VTtpUakV1DlsrJoBITGsj9k7kCjEogqf8+28Uz7azfHnQIPozNCLPji8Xd/IepP8tE81v3cI0XKMvxMZkd+u3ukyVkgmlG0mAiGOvpw2F7gZzf51ehX3jhGBYkWjgFQVnL8/uIso5hnyI8inGUA3DP+0=",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": 1802833934.830289,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SPC_SEC_SI",
+      "value": "v1-eGh5S0o3Y3NZU2xQanA0UhW3TCFTHV5N7b8mMpTm9M+Isej0k/1WBJM6ZyJwPM7+zChk3mVdwE/XGBTTjoUc76k8DQZoMB7LAsYrtvvjZn8=",
+      "domain": "seller.shopee.com.br",
+      "path": "/",
+      "expires": 1768360635.349082,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SPC_CDS_CHAT",
+      "value": "9e280c10-458f-46b6-9992-987e07340f27",
+      "domain": ".shopee.com.br",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopee_webUnique_ccd",
+      "value": "60mSqWPZnt4WI%2FcNzK5lug%3D%3D%7Coz57AE%2BYZKR8FPJkPP84TMPbQ%2FJV%2Baa4qlJ%2B0%2B0tsUVJtwrRKB3uljQsPXstQI%2BsPfid4xKu30MTVsnb2A%3D%3D%7CntB%2BEHBO4hVzhjXD%7C08%7C3",
+      "domain": "shopee.com.br",
+      "path": "/",
+      "expires": 1799809937,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ds",
+      "value": "f1ac784caba624abcde6e7bfce71e3ee",
+      "domain": "shopee.com.br",
+      "path": "/",
+      "expires": 1799809937,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://shopee.com.br",
+      "localStorage": [
+        {
+          "name": "__abtest__",
+          "value": "{\"0037f4ca43e41a34b166c4e6d4079fcd\":{\"config\":{\"country\":\"BR\",\"bizName\":\"marketplace\",\"isWsa\":true,\"filters\":[{\"name\":\"platform\",\"value_type\":\"INT\",\"value\":\"16\"}],\"sceneKeys\":[\"User_Identity\"]},\"expireTime\":1768274234064},\"6a5e0866cb2964efb0e005e9ca4b085f\":{\"resp\":{\"version\":2066324,\"dimension\":\"deviceFingerprint\",\"dimension_value\":\"lbCALiAnGHGIzeGK90kX4hyJALpQ55SK\",\"feature_map\":[],\"experiments\":[{\"exp_name\":\"Live_Testing_Web\",\"group_name\":\"Experiment\",\"parameter\":\"live_testing_web_exp\",\"group_id\":79423,\"hot_update\":null},{\"exp_name\":\"remove_phone_login\",\"group_name\":\"Treatment\",\"parameter\":\"remove_phone_login_treatment\",\"group_id\":443072,\"hot_update\":null},{\"exp_name\":\"seller_standalone_login_page_reduce_loading_time\",\"group_name\":\"standalone_seller_page_experiment_group\",\"parameter\":\"experiment_new_page\",\"group_id\":363646,\"hot_update\":null},{\"exp_name\":\"Store_3P_BR_V1\",\"group_name\":\"STORE_3P_BR_EXP_1\",\"parameter\":\"STORE_3P_BR_EXP_1\",\"group_id\":470573,\"hot_update\":null},{\"exp_name\":\"delink_allow_users_to_login_web\",\"group_name\":\"delink_experiment_web\",\"parameter\":\"experiment\",\"group_id\":354299,\"hot_update\":null}],\"point_infos\":[{\"point_id\":\"click.0.login_with_sms..login_with_apple\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.sign_up..next\",\"group_ids\":[363646,470573]},{\"point_id\":\"view.0.qr_login..\",\"group_ids\":[363646,470573]},{\"point_id\":\"action_sign_up_success.0.login_with_sms..\",\"group_ids\":[470573]},{\"point_id\":\"view.0.phone_otp_general..\",\"group_ids\":[354299]},{\"point_id\":\"click.0.edit_new_phone_number.cmn_failure_error_popup.secondary_button\",\"group_ids\":[354299]},{\"point_id\":\"action_login_success.0.login_with_sms..\",\"group_ids\":[470573]},{\"point_id\":\"view.0.account_and_security..\",\"group_ids\":[354299]},{\"point_id\":\"action_login_success.0.login..\",\"group_ids\":[443072,363646,470573,354299]},{\"point_id\":\"click.0.sign_up..login\",\"group_ids\":[363646,470573]},{\"point_id\":\"view.0.forgot_password..\",\"group_ids\":[443072]},{\"point_id\":\"click.0.login_with_password..login_with_google\",\"group_ids\":[363646,470573]},{\"point_id\":\"view.0.social_media..\",\"group_ids\":[470573]},{\"point_id\":\"action_update_phone_unsuccessfully.0.edit_new_phone_number..\",\"group_ids\":[354299]},{\"point_id\":\"click.0.change_phone_number_reclaim.cmn_failure_error_popup.secondary_button\",\"group_ids\":[354299]},{\"point_id\":\"click.0.login_with_password..login_with_fb\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.login_with_password..qr_login\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.login_with_sms..login_with_password\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.login_with_sms..qr_login\",\"group_ids\":[363646,470573]},{\"point_id\":\"action_login_success.0.login_with_password..\",\"group_ids\":[470573]},{\"point_id\":\"view.0.change_phone_number_reclaim..\",\"group_ids\":[354299]},{\"point_id\":\"view.0.sign_up..\",\"group_ids\":[79423,363646,470573]},{\"point_id\":\"click.0.qr_login..sign_up\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.login_with_password..forgot_password\",\"group_ids\":[363646,470573]},{\"point_id\":\"action_sign_up_fail.0.sign_up..\",\"group_ids\":[470573]},{\"point_id\":\"impression.0.change_phone_number_reclaim.cmn_failure_error_popup.\",\"group_ids\":[354299]},{\"point_id\":\"view.0.login_with_sms..\",\"group_ids\":[443072,363646,470573]},{\"point_id\":\"click.0.qr_login..login_with_password\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.login_with_sms..login_with_google\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.change_phone_number_reclaim..primary_button\",\"group_ids\":[354299]},{\"point_id\":\"action_login_fail.0.login..\",\"group_ids\":[363646,470573]},{\"point_id\":\"view.0.edit_profile..\",\"group_ids\":[354299]},{\"point_id\":\"click.0.login_with_password..main_sub_account_login\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.login_with_sms..next_button\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.login_with_sms..login_with_sms\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.social_media..link\",\"group_ids\":[470573]},{\"point_id\":\"view.0.identity_verification_method_selection..\",\"group_ids\":[354299]},{\"point_id\":\"action_update_phone_successfully.0.edit_new_phone_number..\",\"group_ids\":[354299]},{\"point_id\":\"click.0.change_phone_number_reclaim.cmn_failure_error_popup.primary_button\",\"group_ids\":[354299]},{\"point_id\":\"click.0.login_with_password..login_with_apple\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.login_with_password..subaccount_login_entrance\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.login_with_password.unregistered_gmail_popup.signup_button\",\"group_ids\":[363646,470573]},{\"point_id\":\"action_connected_third_party_fail.0.third_party_connection..\",\"group_ids\":[470573]},{\"point_id\":\"action_connected_third_party_success.0.third_party_connection..\",\"group_ids\":[470573]},{\"point_id\":\"action_sign_up_success.0.sign_up..\",\"group_ids\":[79423,363646,470573]},{\"point_id\":\"click.0.edit_new_phone_number.cmn_failure_error_popup.primary_button\",\"group_ids\":[354299]},{\"point_id\":\"click.0.edit_new_phone_number..next\",\"group_ids\":[354299]},{\"point_id\":\"click.0.login_with_password..sign_up\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.login_with_password..login_with_whatsapp\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.login_with_sms..sign_up\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.login_with_sms..login_with_fb\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.sign_up..sign_up_with_apple\",\"group_ids\":[363646,470573]},{\"point_id\":\"view.0.login_with_password..\",\"group_ids\":[443072,363646,470573]},{\"point_id\":\"click.0.login_with_password..login_with_sms\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.login_with_password..login_button\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.sign_up..sign_up_with_google\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.sign_up..sign_up_with_fb\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.login_with_sms..main_sub_account_login\",\"group_ids\":[363646,470573]},{\"point_id\":\"view.0.edit_new_phone_number..\",\"group_ids\":[354299]},{\"point_id\":\"impression.0.edit_new_phone_number.cmn_failure_error_popup.\",\"group_ids\":[354299]},{\"point_id\":\"action_reclaim_successful.0.change_phone_number_reclaim..\",\"group_ids\":[354299]},{\"point_id\":\"click.0.login_with_password..login_with_line\",\"group_ids\":[363646,470573]},{\"point_id\":\"action_sign_up_success.0.login_with_password..\",\"group_ids\":[470573]},{\"point_id\":\"click.0.change_phone_number_reclaim..secondary_button\",\"group_ids\":[354299]},{\"point_id\":\"view.0.login..\",\"group_ids\":[363646,470573]},{\"point_id\":\"impression.0.login_with_password..subaccount_login_entrance\",\"group_ids\":[363646,470573]},{\"point_id\":\"click.0.change_phone_number_reclaim..reclaim_phone_number\",\"group_ids\":[354299]}]},\"config\":{\"country\":\"BR\",\"bizName\":\"marketplace\",\"isWsa\":true,\"filters\":[{\"name\":\"platform\",\"value_type\":\"INT\",\"value\":\"16\"}],\"sceneKeys\":[\"User_Account\"]},\"expireTime\":1768274220719}}"
+        },
+        {
+          "name": "shopee_webUnique_ccd",
+          "value": "\"60mSqWPZnt4WI/cNzK5lug==|oz57AE+YZKR8FPJkPP84TMPbQ/JV+aa4qlJ+0+0tsUVJtwrRKB3uljQsPXstQI+sPfid4xKu30MTVsnb2A==|ntB+EHBO4hVzhjXD|08|3\""
+        },
+        {
+          "name": "mdap_persisttk_desktop-user_live_persisttk",
+          "value": "{\"lastUpdate\":1768266459790,\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfbmFtZSI6ImRlc2t0b3AtdXNlciIsImV4cCI6MTc2ODI2ODI1OSwiaWF0IjoxNzY4MjY2NDU5LCJpc3MiOiJtZGFwIn0.ABCcTQFZPqgSiuOG226VAY64xc2_4YjCoACfddhSMh8\",\"maxAge\":1800000}"
+        },
+        {
+          "name": "chat-locale",
+          "value": "\"pt-BR\""
+        },
+        {
+          "name": "_sapid",
+          "value": "8d3d79f741a71c9e8860b5f5a0678ba839893464387e108fa323d080"
+        },
+        {
+          "name": "blueID",
+          "value": "b865b578-5574-4725-87c6-0d5427e36e39"
+        },
+        {
+          "name": "topicsLastReferenceTime",
+          "value": "1768273921183"
+        },
+        {
+          "name": "reduxPersist:notificationSummary",
+          "value": "{\"lastViewedId\":{\"action\":\"909620790256305476\"}}"
+        },
+        {
+          "name": "mdap_persisttk_pc-promotion_live_persisttk",
+          "value": "{\"lastUpdate\":1768273944448,\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfbmFtZSI6InBjLXByb21vdGlvbiIsImV4cCI6MTc2ODI3NTc0NCwiaWF0IjoxNzY4MjczOTQ0LCJpc3MiOiJtZGFwIn0.4LK8R6_8j59gaFS5THW5sFFjf-8ESJYA7zMgHj8VGcQ\",\"maxAge\":1800000}"
+        },
+        {
+          "name": "REC7iLP4Q",
+          "value": "\"61a2fe43-cce3-418f-b96b-2ce35e858670\""
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"creationTimeMs\":1768267798969},\"expires\":1776043798969}}"
+        },
+        {
+          "name": "SHOPEE_CCMS_MODULES",
+          "value": "{\"313\":{\"moduleId\":313,\"version\":2,\"data\":{\"3628\":{\"module_id\":313,\"id\":\"3628\",\"type\":\"boolean\",\"value\":false,\"version\":1}}}}"
+        },
+        {
+          "name": "mdap_persisttk_pc-platform_live_persisttk",
+          "value": "{\"lastUpdate\":1768267810167,\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfbmFtZSI6InBjLXBsYXRmb3JtIiwiZXhwIjoxNzY4MjY5NjEwLCJpYXQiOjE3NjgyNjc4MTAsImlzcyI6Im1kYXAifQ.5t3i5o8vr82NPO_baxORAnd8vNN8nTTU--Z-RW2_ufA\",\"maxAge\":1800000}"
+        },
+        {
+          "name": "@shopee/authentication-background",
+          "value": "{\"image\":\"sg-11134004-7rcd6-m6h3nc648mjt44\",\"color\":\"#EE4D2D\"}"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1768273920871"
+        },
+        {
+          "name": "reduxPersist:notificationCommon",
+          "value": "{\"activity\":{\"0\":{\"read\":[],\"lastReceivedId\":null},\"1\":{\"read\":[],\"lastReceivedId\":null},\"2\":{\"read\":[],\"lastReceivedId\":null},\"3\":{\"read\":[],\"lastReceivedId\":null},\"4\":{\"read\":[],\"lastReceivedId\":null},\"5\":{\"read\":[],\"lastReceivedId\":null},\"6\":{\"read\":[],\"lastReceivedId\":null},\"7\":{\"read\":[],\"lastReceivedId\":null},\"8\":{\"read\":[],\"lastReceivedId\":null},\"9\":{\"read\":[],\"lastReceivedId\":null}},\"action\":{\"1\":{\"read\":[\"909565176003467735\"],\"lastReceivedId\":\"909565176003467735\"},\"3\":{\"read\":[],\"lastReceivedId\":null},\"4\":{\"read\":[],\"lastReceivedId\":null},\"6\":{\"read\":[\"909620790256305476\"],\"lastReceivedId\":\"909620790256305476\"},\"7\":{\"read\":[],\"lastReceivedId\":null},\"8\":{\"read\":[],\"lastReceivedId\":null},\"13\":{\"read\":[],\"lastReceivedId\":null},\"25\":{\"read\":[],\"lastReceivedId\":null}},\"isUserFollowedShopStatusRecord\":{}}"
+        },
+        {
+          "name": "@shopee/account-basic-info",
+          "value": "{\"username\":\"matheusprado078\",\"portrait\":\"439d773a79dffe5a030e3eb95d1d82e9\"}"
+        },
+        {
+          "name": "MDAP_CONFIG_STORAGE_minichat_live_9.0.8",
+          "value": "{\"config\":{\"tag\":\"web-performance\",\"vip_user\":false,\"switch_config_checksum\":{\"switch_config\":\"-1\"},\"switch_config_extra\":{\"switch_config\":{\"is_sampled\":false}}},\"log_config\":{\"secret_key\":\"\",\"can_upload\":true},\"sdk_spec\":{\"status\":\"ENABLED\",\"config_max_age\":1800},\"sdk_spec_checksum\":\"f414bd59a57264c82aed4854159049ae806d7d02ab2bb2759475293caccb0bbf\",\"public_key\":\"-----BEGIN PUBLIC KEY-----\\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsxn94lEIKIdjxemzshVH\\nzZj/BZVCJvi8GdviLRhDTUlaW1vslRDqKRb6P9t6RfRnQslrIPBzYQu7ESNfnTKO\\n0LT2ZA3afJNrVPBqRYftvZyMbXDmDNvYKmLRnTSyAhTENy5kQnGCx6uq5+4oyLSO\\nuQA8uo5uBgENoQJ/EMLqb/CYfIVvodC63dEwH3CvAZ/Lky9Rn+B9y8PXateiU1zL\\nQ6wPM3uv9PnDr0WOtG6O0NDqUK8tcDUECzMnoQPId9TSPPvybY9gFNi6pHFZs9rM\\n5cH4iyFOXgnGpF1ARFYA0I8pCXfxF+fDkpEwgj6PkHUbAldSfIaaIMI+lih+juoW\\nUQIDAQAB\\n-----END PUBLIC KEY-----\\n\",\"key_version\":\"k1\",\"ntp_t2\":1768273937256,\"ntp_t3\":1768273937256,\"time_offset\":60,\"default_sample\":0.6,\"last_update\":1768273937563,\"reported\":false}"
+        },
+        {
+          "name": "de_device_id",
+          "value": "abeb0756-3c33-4b87-8b69-9402ac9052f0"
+        },
+        {
+          "name": "mdap_persisttk_minichat_live_persisttk",
+          "value": "{\"lastUpdate\":1768273936830,\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfbmFtZSI6Im1pbmljaGF0IiwiZXhwIjoxNzY4Mjc1NzM2LCJpYXQiOjE3NjgyNzM5MzYsImlzcyI6Im1kYXAifQ.mJwiw3qcf7U5wWFPaLn-33A0-1JvOxQtUsxvKc_BYjc\",\"maxAge\":1800000}"
+        },
+        {
+          "name": "reduxPersist:topProducts",
+          "value": "{}"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "mini-session",
+          "value": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTc2ODI3MzkzNSwiaWQiOiJhOTc5ZTA4YS1mMDJkLTExZjAtOWVjMC1hZWM2N2Y5ZjI2NTYifQ.kKg1lg0flEap-pdJlS6r-sQfFaTZet277B1L2DRz4I4\",\"p_token\":\"VjRvV3RiRWlvUXd1cUhXarM+Lc8HiclRAhb2tFW1dVPR9YriiM7EM/3tGSg/SZphjVq9YzNbJfBEsjxi1M7VmiooLRkwZiJmG6OaUb5TEs8tPsg0G0n00lfAI7vF+XAjc3pis+f7pIC35GEi73I39TY4t/02QzALmx+yhwIZfhC23zFGTAegIZmb5Nq9GSADGN9oyWc8zyhqdsvd1uB+A4Kp9bjn44DXhpDCS4dcRXOX7MeDcDMjcyGI9soBstJ/0Oh0ddPq8xEF0HF2/h0HU5O15945eyMYx3qoqzFsw6AIT3Rx4uf69f4/fSnXLuBMB72HZJUA8KzeozrWV11uXjooya1WUlBuJz11S9SrXzChe5EMkpJr1tC8FpZ8aHYKIotgxH3H3MJxmSeX5WYu5igJRBuk4R9+MJmke1YbogL3yEs0hM7688uXdJ16ugNx7wEsEfB1aLUIFc0jrDmVlRAf9fkR8p+YN1JfiB6AJNLld2Cc/kQceNj2eqCGflsVC+LfqEhwJBIoVSdQmaxXISzeJapo4+79nimIWAjZq5NKLSZSgfSf2u8MR/XPkWxb2puUQZ51TJiVQl3bmjv9F8E31kHdOzx3wpkMHn8nZ9AGN2zvxPDTQ/QUXyB7VEsWj600mfKQmMQ2QnuCR67YPYuQo0N+dDJS5YCXDwoNevaS4LPQnrHIcrvA5PcUWv6d+gvAN7Z3kzTAFapQixqAVXfhMj2rJ0M5s2Yp3khKdpEZHFd0oy6BY0dQzhBnmx/rwnTTsJcMTyQE8TeulK2h/sT9HdrdLX8DVHsMsP9xDqVxDljNx2+dgi+BkykciM0h7QPYB6kOHl8yiTJw0hWh1ViA3153AYn6JTMm1K1GUrc=\",\"user\":{\"id\":854197827,\"uid\":\"0-854197827\",\"name\":\"matheusprado078\",\"type\":\"seller\",\"avatar\":\"https://cf.shopee.sg/file/439d773a79dffe5a030e3eb95d1d82e9\",\"avatar_hash\":\"439d773a79dffe5a030e3eb95d1d82e9\",\"locale\":\"pt-BR\",\"shop_id\":854189646,\"country\":\"BR\",\"status\":\"\",\"is_seller\":false},\"version\":0,\"shop\":{\"id\":854189646,\"user_id\":854197827,\"name\":\"matheusprado078\",\"country\":\"BR\",\"image\":\"https://cf.shopee.sg/file/439d773a79dffe5a030e3eb95d1d82e9\",\"image_hash\":\"439d773a79dffe5a030e3eb95d1d82e9\",\"auto_reply_on\":false,\"auto_reply_msg\":\"\",\"hide_for_mart_seller\":false},\"is_ccu_grey\":true,\"show_chatbot_entrance\":true,\"use_top_region_ui\":false}"
+        },
+        {
+          "name": "__WIR_SZ_UNIQ_DC",
+          "value": "\"5ee270c9-aa31-4688-eaef-346593e78c9f\""
+        },
+        {
+          "name": "_apms_sdk_fingerprint",
+          "value": "ac0f0d5b7126457782dcd945b73bc97c"
+        }
+      ]
+    }
+  ]
+}

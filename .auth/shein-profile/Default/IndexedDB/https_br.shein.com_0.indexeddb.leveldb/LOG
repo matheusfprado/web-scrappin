@@ -1,0 +1,21 @@
+2026/01/20-23:45:44.137 4fc4 Reusing MANIFEST C:\Users\mathe\projetos\projects\web-scrappin\.auth\shein-profile\Default\IndexedDB\https_br.shein.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/20-23:45:44.137 4fc4 Recovering log #106
+2026/01/20-23:45:44.139 4fc4 Reusing old log C:\Users\mathe\projetos\projects\web-scrappin\.auth\shein-profile\Default\IndexedDB\https_br.shein.com_0.indexeddb.leveldb/000106.log 
+2026/01/20-23:45:45.395 65a0 Level-0 table #111: started
+2026/01/20-23:45:45.400 65a0 Level-0 table #111: 49480 bytes OK
+2026/01/20-23:45:45.401 65a0 Delete type=0 #106
+2026/01/20-23:45:45.402 4fc4 Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/20-23:45:45.490 6124 Compacting 1@1 + 1@2 files
+2026/01/20-23:45:45.495 6124 Generated table #112@1: 226 keys, 24425 bytes
+2026/01/20-23:45:45.495 6124 Compacted 1@1 + 1@2 files => 24425 bytes
+2026/01/20-23:45:45.496 6124 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/20-23:45:45.496 6124 Delete type=2 #108
+2026/01/20-23:45:45.496 6124 Delete type=2 #111
+2026/01/20-23:45:57.283 65a0 Level-0 table #114: started
+2026/01/20-23:45:57.287 65a0 Level-0 table #114: 36815 bytes OK
+2026/01/20-23:45:57.289 65a0 Delete type=0 #110
+2026/01/20-23:45:57.290 4fc4 Manual compaction at level-0 from '\x00&\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/20-23:45:57.708 6124 Compacting 1@1 + 1@2 files
+2026/01/20-23:45:57.713 6124 Generated table #115@1: 242 keys, 27010 bytes
+2026/01/20-23:45:57.713 6124 Compacted 1@1 + 1@2 files => 27010 bytes
+2026/01/20-23:45:57.713 6124 compacted to: files[ 0 0 1 0 0 0 0 ]
