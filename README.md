@@ -104,18 +104,7 @@ Resposta:
 
 Para outros sites na API, informe `url` e os seletores CSS obrigatórios (`product`, `title`, `link` e `price`). O campo `discount` é opcional.
 
-## Variáveis de ambiente
 
-- `PORT`: porta da API (padrão: `3000`);
-- `HEADLESS=false`: abre o navegador visível para os scripts que suportam essa opção;
-- `SHEIN_USER_DATA_DIR`: diretório alternativo de perfil persistente da Shein;
-- `SHEIN_PERSISTENT_CONTEXT=false`: desativa o perfil persistente da Shein;
-- `SHOPEE_USER_DATA_DIR`: diretório alternativo de perfil persistente da Shopee;
-- `SHOPEE_DELAY_MS`: espera entre etapas da coleta da Shopee (padrão: `800` ms);
-- `SHOPEE_WAIT=true`: aguarda confirmação manual ao encontrar interrupções;
-- `LOGIN_GOOGLE=true`: abre o fluxo de login da Shopee.
-
-Shein e Shopee salvam dados de sessão em `.auth/`. Esse diretório contém informações locais de autenticação e não deve ser versionado.
 
 ## Observações operacionais
 
